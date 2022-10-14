@@ -1,5 +1,5 @@
 # wxapp-2048
-基于[web版2048游戏](https://github.com/gabrielecirulli/2048)
+基于[web版2048游戏](https://github.com/gabrielecirulli/2048)开发的微信小程序版2048，仅作交流学习用。
 
 ### 界面展示
 
