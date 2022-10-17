@@ -1,7 +1,7 @@
 /**index.wxss**/
 .more{
   /*浅灰色*/
-	color: #aaa;
+	color: rgb(110, 81, 81);
 	font-size: 14px;
 	position:fixed;
 	bottom: 20px;
